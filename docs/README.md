@@ -3,7 +3,7 @@
 ##### Learn how to exploit the system for your own interest
 
 
-![](_media/plant-asphalt.jpeg)
+![](_medias/plant-asphalt.jpeg)
 
 On this site you will find valuable information on how to use society ressources to your own advantage.
 

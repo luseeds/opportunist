@@ -5,7 +5,7 @@
 
 Water is by far one of the most important ressource you need to have constant access to. Furthermore, it needs to be drinkable.
 
-![water](../_media/drinking-water.jpeg)
+![water](../_medias/drinking-water.jpeg)
 
 In our modern societies it's a common good that we can find everywhere very easily. However it should never be taken for granted.
 

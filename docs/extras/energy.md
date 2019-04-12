@@ -3,7 +3,7 @@
 Even if electricty is not necessary to live, it's definitely a great help.
 It powers many of our appliances and offer great services.
 
-![energy](../_media/energy3.jpeg)
+![energy](../_medias/energy3.jpeg)
 
 
 Unfortunately, most of it is produced in a centralized way. Take for instance nuclear centrals, coal mines, dams, wind turbines they are all owned by a minority (private companies) that have a full control on how they distribute it.  

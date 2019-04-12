@@ -2,7 +2,7 @@
 
 Sleeping plays an important role concerning your health. It's a very restorative time for your body and brain, so you should ensure you have enough of it and in good conditions.
 
-![sleep](../_media/sleep.jpeg)
+![sleep](../_medias/sleep.jpeg)
 
 So if you want to don't be too dependant on the system it means you shouldn't have a rent to pay. This means a lot of money saved not going into a landlord's pocket but it also means not a safe space to call home.
 
