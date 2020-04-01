@@ -1,0 +1,24 @@
+{
+  "name": "opportunist",
+  "version": "1.0.0",
+  "description": "Learn how to exploit the system for your own interest",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "develop": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luseeds/opportunist.git"
+  },
+  "author": "luseeds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luseeds/opportunist/issues"
+  },
+  "homepage": "https://github.com/luseeds/opportunist#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.0"
+  }
+}
