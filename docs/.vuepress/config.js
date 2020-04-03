@@ -19,7 +19,7 @@ module.exports = {
     sidebar: {
       "/": [
         {
-          title: "The Wise Opportunist",
+          title: "",
           collapsable: false,
           sidebarDepth: 0,
           children: [["/", "Home"]]
