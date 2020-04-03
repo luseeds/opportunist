@@ -1,11 +1,14 @@
-# The Wise Opportunist
+---
+title: Home
+---
 
-##### Learn how to exploit the system for your own interest
+# Learn how to exploit the system for your own interest
 
-![](_medias/plant-asphalt.jpeg)
+![](~@assets/plant-asphalt.jpeg)
 
-> [!NOTE]
-> The content on this website is still a work in progress. Help us improving it at [https://github.com/luseeds/opportunist](https://github.com/luseeds/opportunist)
+::: warning Note
+The content on this website is still a work in progress. Help us improving it at [https://github.com/luseeds/opportunist](https://github.com/luseeds/opportunist)
+:::
 
 On this site you will find valuable information on how to use society ressources to your own advantage.
 

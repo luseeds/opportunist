@@ -1,11 +1,12 @@
 # Water
 
-> [!WARNING]
-> Always make sure your water is drinkable. You don't want to take any risk. See [how to purify it](basics/water?id=how-to-purify-it) for more information.
+::: warning
+Always make sure your water is drinkable. You don't want to take any risk. See [how to purify it](basics/water?id=how-to-purify-it) for more information.
+:::
 
 Water is by far one of the most important ressource you need to have constant access to. Furthermore, it needs to be drinkable.
 
-![water](../_medias/drinking-water.jpeg)
+![water](~@assets/drinking-water.jpeg)
 
 In our modern societies it's a common good that we can find everywhere very easily. However it should never be taken for granted.
 
@@ -37,15 +38,17 @@ It's also possible to use a **simple tarpaulin** that you attach to trees to col
 
 The simplest, cheapest and oldest way to do it is to bring your water to a **boil**. If the water is boiling you're sure that you killed all the pathogens.
 
-> [!WARNING]
-> Boiling will **NOT** remove chemical toxins like pesticides and so on.
+::: warning
+Boiling will **NOT** remove chemical toxins like pesticides and so on.
 So be sure of where you are taking your water from.
-> Also it's recommended to filter your dirty water through a piece of clothes to remove the sediments. A coffee filter is a good solution for this task.
+Also it's recommended to filter your dirty water through a piece of clothes to remove the sediments. A coffee filter is a good solution for this task.
+:::
 
 You can buy (or create) a **water filter system**.
 You can find some working with gravity where you pour your water in the top compartment and it will slowly fall down to the compartment underneath passing through filter (usually active coal & sand).
 
 If you have the budget a **life straw** is also a good solution. It allows you to drink safely from any water.
 
-> [!NOTE]
-> Never forget that filter system and life straw both have a limited timespan after which there are not affective anymore.
+::: tip Info
+Never forget that filter system and life straw both have a limited timespan after which there are not affective anymore.
+:::

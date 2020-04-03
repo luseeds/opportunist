@@ -2,7 +2,7 @@
 
 Either you have your own place, start a new project or have new ideas you will need some materials or tools. Even if buying something new is an easy solution it's definitely not what you should aim for. It keeps the system growing and producing more for no reason. Trust me, you rarely need something new.
 
-![goods](../_medias/goods.jpg)
+![goods](~@assets/goods.jpg)
 
 The first place you can visit is a **tip / recycling center**.  
 There you can find everything and anything in various state. So you might find exactly what you were looking for. The perfect thing is that you know you're buying something that was supposely being thrown out.
@@ -17,5 +17,6 @@ You can also rely on your **neighboors** by doing some power tools exchange or e
 
 Internet is also a great source to find cheap (even free) items. Just check your local **markeplace website** to find anything you like.
 
-> [!NOTE]
-> Here is some example of websites: ebay, gumtree, kijiji, craiglist, leboncoin, ...
+::: tip Info
+Here is some example of websites: ebay, gumtree, kijiji, craiglist, leboncoin, ...
+:::

@@ -4,7 +4,7 @@ Staying clean is important for the health and also for social interactions.
 It doesn't mean you have to take a shower every day, but you know, staying fresh enough.
 Luckily developed cities provides us with some options in regards of hygiene.
 
-![hygiene](../_medias/hygiene.jpeg)
+![hygiene](~@assets/hygiene.jpeg)
 
 First, the **public or free toilets**. This one is the most common and you can find it easily.  
 You can also find some **free showers** especially if your town is close to the sea. Otherwise you will be able to find them into some **petrol stations**.
