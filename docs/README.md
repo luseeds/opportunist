@@ -17,7 +17,7 @@ We live in a society that is unfair and wasteful. There is different reactions b
 We can either fight the system, submit to it or escape it and live secluded.
 
 But actually there is an extra possibility and that's the one we decided to develop on this site.
-It's exploiting the system for our own interest. Transforming his wastes into valuables and his stuîdity into wisdom.
+It's exploiting the system for our own interest. Transforming his wastes into valuables and his stupidity into wisdom.
 
 The knowledge economy is the most powerful as it's ressources are infinite and sharing what you know with someone won't make you poorer but will make you both wiser.
 
