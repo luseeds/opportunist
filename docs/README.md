@@ -1,11 +1,14 @@
-# The Wise Opportunist
+---
+title: Home
+---
 
-##### Learn how to exploit the system for your own interest
+# Learn how to exploit the system for your own interest
 
-![](_medias/plant-asphalt.jpeg)
+![](~@assets/plant-asphalt.jpeg)
 
-> [!NOTE]
-> The content on this website is still a work in progress. Help us improving it at [https://github.com/luseeds/opportunist](https://github.com/luseeds/opportunist)
+::: warning Note
+The content on this website is still a work in progress. Help us improving it at [https://github.com/luseeds/opportunist](https://github.com/luseeds/opportunist)
+:::
 
 On this site you will find valuable information on how to use society ressources to your own advantage.
 
@@ -14,7 +17,7 @@ We live in a society that is unfair and wasteful. There is different reactions b
 We can either fight the system, submit to it or escape it and live secluded.
 
 But actually there is an extra possibility and that's the one we decided to develop on this site.
-It's exploiting the system for our own interest. Transforming his wastes into valuables and his stuîdity into wisdom.
+It's exploiting the system for our own interest. Transforming his wastes into valuables and his stupidity into wisdom.
 
 The knowledge economy is the most powerful as it's ressources are infinite and sharing what you know with someone won't make you poorer but will make you both wiser.
 

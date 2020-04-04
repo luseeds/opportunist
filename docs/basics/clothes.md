@@ -2,11 +2,11 @@
 
 The clothes industry is huge. Nowadays people have way more clothes in their wardrobes than they could ever wear. This is an environmental disaster and a human one too (due to the chemicals used and the poor/young labor exploited).
 
-![clothes](../_medias/clothes.jpeg)
+![clothes](~@assets/clothes.jpeg)
 
 A minimalist approach is highly recommended where you keep only the minimal amount of clothes you need in your daily life. Also, next time you think about buying something, make sure that it's really necessary.
 
-## Where to shop? {docsify-ignore}
+## Where to shop?
 
 The answer is simple: **don't**.
 

@@ -7,3 +7,4 @@ dist
 .env
 .env.*
 static/rss.xml
+docs/.vuepress/dist

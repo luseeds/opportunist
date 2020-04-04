@@ -6,7 +6,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "develop": "docsify serve docs"
+    "develop": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -17,8 +18,9 @@
   "bugs": {
     "url": "https://github.com/luseeds/opportunist/issues"
   },
-  "homepage": "https://github.com/luseeds/opportunist#readme",
-  "dependencies": {
-    "docsify-cli": "^4.4.0"
+  "homepage": "https://github.com/luseeds/opportunist",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.4.0"
   }
 }

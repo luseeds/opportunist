@@ -3,7 +3,7 @@
 You can learn so much from books that it deserves its own section on this website.
 Not only learning but also opening your mind, dreaming, traveling. Books are really a gate to an enourmous amount of knowledge and stories.
 
-![books](../_medias/books.jpeg)
+![books](~@assets/books.jpeg)
 
 A really good initiative that you can find in many cities is called **book exchange**.  
 This is a place where you can go to and pick upany book you like. Or you can drop one you have finish reading.  
