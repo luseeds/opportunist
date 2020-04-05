@@ -21,6 +21,7 @@
   "homepage": "https://github.com/luseeds/opportunist",
   "dependencies": {},
   "devDependencies": {
-    "vuepress": "^1.4.0"
+    "vuepress": "^1.4.0",
+    "vuepress-plugin-clean-urls": "^1.1.1"
   }
 }
