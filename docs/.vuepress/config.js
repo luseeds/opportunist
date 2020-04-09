@@ -50,7 +50,14 @@ module.exports = {
       ],
     },
   },
-  plugins: ["vuepress-plugin-clean-urls"],
+  plugins: [
+    [
+      "vuepress-plugin-clean-urls",
+      {
+        normalSuffix: "/",
+      },
+    ],
+  ],
   configureWebpack: {
     resolve: {
       alias: {
