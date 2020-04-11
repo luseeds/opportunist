@@ -3,7 +3,7 @@ const path = require("path")
 module.exports = {
   title: "The Wise Opportunist",
   description: "Learn how to exploit the system for your own interest",
-  theme: "./theme",
+  theme: "vuepress-theme-book",
   themeConfig: {
     logo: "/logo.svg",
     searchPlaceholder: "Search...",
