@@ -16,6 +16,7 @@ Reaching this goal requires time and effort. So the mindset here is to use the s
 ## Tech
 
 This is based on [vuepress](https://vuepress.vuejs.org/).
+It's using the [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book).
 
 To run locally:
 
