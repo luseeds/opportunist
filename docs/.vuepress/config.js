@@ -3,6 +3,7 @@ const path = require("path")
 module.exports = {
   title: "The Wise Opportunist",
   description: "Learn how to exploit the system for your own interest",
+  theme: "./theme",
   themeConfig: {
     logo: "/logo.svg",
     searchPlaceholder: "Search...",
@@ -14,7 +15,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
-      { text: "Luseeds", link: "https://luseeds.com" },
+      { text: "Luseeds", link: "https://luseeds.com" }
     ],
     sidebar: {
       "/": [
@@ -22,7 +23,7 @@ module.exports = {
           title: "",
           collapsable: false,
           sidebarDepth: 0,
-          children: [["/", "Home"]],
+          children: [["/", "Home"]]
         },
         {
           title: "Basic needs",
@@ -31,8 +32,8 @@ module.exports = {
             ["/basics/water", "Water 💧"],
             ["/basics/food", "Food 🍕"],
             ["/basics/clothes", "Clothes 👚"],
-            ["/basics/sleep", "Sleep 😴"],
-          ],
+            ["/basics/sleep", "Sleep 😴"]
+          ]
         },
         {
           title: "Extras",
@@ -44,25 +45,25 @@ module.exports = {
             ["/extras/hygiene", "Hygiene 🚿"],
             ["/extras/activities", "Activities 🎨"],
             ["/extras/transport", "Transport 🚆"],
-            ["/extras/internet", "Internet 📶"],
-          ],
-        },
-      ],
-    },
+            ["/extras/internet", "Internet 📶"]
+          ]
+        }
+      ]
+    }
   },
   plugins: [
     [
       "vuepress-plugin-clean-urls",
       {
-        normalSuffix: "/",
-      },
-    ],
+        normalSuffix: "/"
+      }
+    ]
   ],
   configureWebpack: {
     resolve: {
       alias: {
-        "@assets": path.resolve(__dirname, "../assets"),
-      },
-    },
-  },
+        "@assets": path.resolve(__dirname, "../assets")
+      }
+    }
+  }
 }
