@@ -19,11 +19,10 @@
     "url": "https://github.com/luseeds/opportunist/issues"
   },
   "homepage": "https://github.com/luseeds/opportunist",
-  "dependencies": {
-    "vuepress-theme-book": "0.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "vuepress": "^1.4.0",
-    "vuepress-plugin-clean-urls": "^1.1.1"
+    "vuepress-plugin-clean-urls": "^1.1.1",
+    "vuepress-theme-book": "0.0.1"
   }
 }
