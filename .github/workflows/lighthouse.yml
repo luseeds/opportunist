@@ -1,0 +1,26 @@
+name: Build and lighthouse test
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+jobs:
+  build-and-lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set Node.js 13.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 13.x
+      - name: npm install
+        run: npm install
+      - name: npm run build
+        run: npm run build
+      - name: Run Lighthouse
+        uses: treosh/lighthouse-ci-action@v2
+        with:
+          configPath: ./.github/lighthouse/lighthouserc.json
+          uploadArtifacts: true
+          runs: 3
